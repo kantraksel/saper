@@ -1,0 +1,17 @@
+{
+    "name": "Mirror",
+    "rootNamespace": "",
+    "references": [
+        "Mirror.CompilerSymbols",
+        "kcp2k"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
